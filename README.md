@@ -51,4 +51,6 @@ You can now view your application on localhost:3000
 http://localhost:8000/newReport
 ```
 
+
+
 <img src="frontend/public/images/report_handler_archi.png" alt="Report Handler Architecture">
