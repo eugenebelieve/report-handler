@@ -46,9 +46,9 @@ npm run start
 You can now view your application on localhost:3000
 ```
 
-### To retrieve all reports data
+### To generate new reports data
 
 ```
-# Make API call directly from browser :
+# Make an API call directly from your browser to :
 http://localhost:8000/newReport
 ```
