@@ -1,5 +1,7 @@
 <img src="frontend/public/images/dashboard.png" alt="dashboard">
 
+<img src="frontend/public/images/report_handler_archi.png" alt="Report Handler Architecture">
+
 # Usage
 
 ## Report Handler (React, Node, Express, Coreui, fs) - Responsive (Mobile & Web)
@@ -50,7 +52,3 @@ You can now view your application on localhost:3000
 # Make API call directly from browser :
 http://localhost:8000/newReport
 ```
-
-
-
-<img src="frontend/public/images/report_handler_archi.png" alt="Report Handler Architecture">
