@@ -31,14 +31,18 @@ npm install
 ```
 cd backend
 npm install
-npm run start
 ```
 
-
-### Run application
+### 4 - Run application
 
 ```
 # While backend is running on localhost:8000, in a new terminal window run from root folder :
+npm run start
+```
+
+### 4.1 - You can also run the backend separately if you don't see any reports on the dashboard, in a seperate Terminal run :
+```
+cd backend
 npm run start
 ```
 
