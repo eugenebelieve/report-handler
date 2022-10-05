@@ -45,7 +45,7 @@ You can now view your application on localhost:3000
 ```
 
 ### 4.1 - You can also run the backend separately, if you don't see any reports on the dashboard
-### In a seperate Terminal run :
+## In a seperate Terminal run :
 ```
 cd backend
 npm run start
