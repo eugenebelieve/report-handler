@@ -36,7 +36,7 @@ npm install
 ### 4 - Run application
 
 ```
-# While backend is running on localhost:8000, in a new terminal window run from root folder :
+# Run from root folder :
 npm run start
 ```
 
