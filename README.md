@@ -52,7 +52,7 @@ npm run start
 ```
 
 ```
-You can now view your application on localhost:3000
+You can now refresh your application on localhost:3000
 ```
 
 ### To generate new report data
