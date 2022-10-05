@@ -26,7 +26,7 @@ cd frontend
 npm install
 ```
 
-### 3 - Install Dependencies and run backend, inside backend folder
+### 3 - Install Dependencies in backend folder
 
 ```
 cd backend
@@ -45,7 +45,7 @@ You can now view your application on localhost:3000
 ```
 
 ### 4.1 - You can also run the backend separately, if you don't see any reports on the dashboard
-### in a seperate Terminal run :
+### In a seperate Terminal run :
 ```
 cd backend
 npm run start
